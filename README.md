@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,8 +69,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
