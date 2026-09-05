@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0132-palindrome-partitioning-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
