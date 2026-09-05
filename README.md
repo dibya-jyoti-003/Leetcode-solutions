@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
+| [3904-smallest-stable-index-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
