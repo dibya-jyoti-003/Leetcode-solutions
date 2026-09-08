@@ -109,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
