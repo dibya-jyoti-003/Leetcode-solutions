@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3904-smallest-stable-index-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -110,23 +112,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Lifting
 |  |
 | ------- |
