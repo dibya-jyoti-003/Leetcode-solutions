@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [2939-maximum-xor-product](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2939-maximum-xor-product) |
 | [3870-count-commas-in-range](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [2939-maximum-xor-product](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2939-maximum-xor-product) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2939-maximum-xor-product](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2939-maximum-xor-product) |
 <!---LeetCode Topics End-->
