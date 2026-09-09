@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [2939-maximum-xor-product](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2939-maximum-xor-product) |
 | [3870-count-commas-in-range](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
