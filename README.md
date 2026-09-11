@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-grid-illumination](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1001-grid-illumination) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3483-unique-3-digit-even-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [1001-grid-illumination](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1001-grid-illumination) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3483-unique-3-digit-even-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0047-permutations-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
