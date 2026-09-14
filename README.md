@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0836-rectangle-overlap](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [2939-maximum-xor-product](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2939-maximum-xor-product) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0089-gray-code) |
 | [2939-maximum-xor-product](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2939-maximum-xor-product) |
 ## Heap (Priority Queue)
 |  |
