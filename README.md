@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
