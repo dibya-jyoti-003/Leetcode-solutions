@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0355-design-twitter](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1001-grid-illumination](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1001-grid-illumination) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0355-design-twitter](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0355-design-twitter) |
 ## Math
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0355-design-twitter](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
@@ -240,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
