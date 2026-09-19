@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
+| [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0835-image-overlap](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1001-grid-illumination](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1001-grid-illumination) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1001-grid-illumination](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1001-grid-illumination) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2939-maximum-xor-product](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2939-maximum-xor-product) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Enumeration
 |  |
@@ -231,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0052-n-queens-ii) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
