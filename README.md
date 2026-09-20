@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1499-max-value-of-equation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1499-max-value-of-equation) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -210,12 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1499-max-value-of-equation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1499-max-value-of-equation) |
 ## Sliding Window
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0930-binary-subarrays-with-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1499-max-value-of-equation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1499-max-value-of-equation) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -256,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1499-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1499-max-value-of-equation) |
 <!---LeetCode Topics End-->
