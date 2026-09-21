@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1499-max-value-of-equation) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2939-maximum-xor-product](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2939-maximum-xor-product) |
+| [3524-find-x-value-of-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
