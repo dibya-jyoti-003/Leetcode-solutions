@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0678-valid-parenthesis-string](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0838-push-dominoes](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0838-push-dominoes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0838-push-dominoes](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0838-push-dominoes) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -307,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
