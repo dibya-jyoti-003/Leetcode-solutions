@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0355-design-twitter](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1499-max-value-of-equation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1499-max-value-of-equation) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Queue
 |  |
 | ------- |
@@ -289,8 +294,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
