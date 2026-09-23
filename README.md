@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0057-insert-interval](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
