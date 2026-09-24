@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0838-push-dominoes](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0838-push-dominoes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0057-insert-interval](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0057-insert-interval) |
