@@ -319,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
