@@ -7,24 +7,33 @@ private:
     }
 public:
     int maximalSquare(vector<vector<char>>& matrix) {
-        tuple<int,int,int> arr[300][300] ;
-        int ans = INT_MIN;
-        int m = matrix.size(), n=matrix[0].size();
-        for (int i=0;i<m;i++){
-            for (int j=0;j<n;j++){
-                if (matrix[i][j] == '0')arr[i][j] = {0,0,0};
-                else {
-                    tuple<int,int,int> one = {0,0,0};
-                    auto [d,_,_] = (i>0 and j>0)? arr[i-1][j-1]:one;
-                    auto [_,h,_] = (j>0)? arr[i][j-1] :one;
-                    auto [_,_,v] = (i>0)? arr[i-1][j]:one;
-                    int side = min({root(d),h,v});  
-                    int area = (side+1)*(side+1);
-                    arr[i][j] = {area,h+1,v+1};
-                    ans = max(ans,area);          
-                }
+        tuple<int,int,int> arr1[300], arr2[300], zero = {0,0,0};
+        int ans = 0, m = matrix.size(), n=matrix[0].size();
+        for (int j=0;j<n;j++){
+            if (matrix[0][j] == '0'){
+                arr1[j] = zero;
+                continue;
             }
+            auto [_,h,_] = (j>0)? arr1[j-1] :zero;
+            arr1[j] = {1,h+1,1};
+            ans = 1;
         }
-        return (ans<0)?0:ans  ;
+        for (int i=1;i<m;i++){
+            for (int j=0;j<n;j++){
+                if (matrix[i][j] == '0'){
+                    arr2[j] = zero;
+                    continue;
+                }
+                auto [d,_,_] = (j>0)? arr1[j-1]:zero;
+                auto [_,h,_] = (j>0)? arr2[j-1] :zero;
+                auto [_,_,v] = arr1[j];
+                int side = min({root(d),h,v});  
+                int area = (side+1)*(side+1);
+                arr2[j] = {area,h+1,v+1};
+                ans = max(ans,area);          
+            }
+            for (int j=0;j<n;j++)arr1[j] =  arr2[j];
+        }
+        return ans  ;
     }
 };
