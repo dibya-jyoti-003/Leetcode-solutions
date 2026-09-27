@@ -26,14 +26,12 @@ public:
                 }
                 auto [d,_,_] = (j>0)? arr1[j-1]:zero;
                 auto [_,h,_] = (j>0)? arr2[j-1] :zero;
-                auto [_,_,v] = arr1[j];
-                int side = min({root(d),h,v});  
-                int area = (side+1)*(side+1);
-                arr2[j] = {area,h+1,v+1};
-                ans = max(ans,area);          
+                auto [_,_,v] = arr1[j];  
+                arr2[j] = {min({d,h,v})+1,h+1,v+1};
+                ans = max(ans,min({d,h,v}) +1);          
             }
             for (int j=0;j<n;j++)arr1[j] =  arr2[j];
         }
-        return ans  ;
+        return ans*ans;
     }
 };
