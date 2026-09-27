@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0836-rectangle-overlap](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
