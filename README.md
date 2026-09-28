@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0089-gray-code) |
 | [2939-maximum-xor-product](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2939-maximum-xor-product) |
 ## Heap (Priority Queue)
