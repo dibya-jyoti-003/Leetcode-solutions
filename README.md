@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0184-department-highest-salary) |
+| [1667-fix-names-in-a-table](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
 ## String Matching
 |  |
 | ------- |
