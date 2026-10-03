@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0669-trim-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0355-design-twitter) |
 ## Simulation
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Stack
@@ -433,4 +437,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
