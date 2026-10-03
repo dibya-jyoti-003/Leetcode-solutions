@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0221-maximal-square](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0221-maximal-square) |
 | [0413-arithmetic-slices](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
