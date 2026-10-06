@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0457-circular-array-loop](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0838-push-dominoes](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0838-push-dominoes) |
+| [0876-middle-of-the-linked-list](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0355-design-twitter](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0355-design-twitter) |
+| [0876-middle-of-the-linked-list](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
