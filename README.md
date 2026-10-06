@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0838-push-dominoes](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0838-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0835-image-overlap](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0881-boats-to-save-people](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1001-grid-illumination](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1001-grid-illumination) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0881-boats-to-save-people](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0881-boats-to-save-people](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1096-brace-expansion-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -466,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0457-circular-array-loop) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
