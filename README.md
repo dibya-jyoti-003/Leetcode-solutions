@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0838-push-dominoes](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0838-push-dominoes) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0529-minesweeper](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0835-image-overlap](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0221-maximal-square) |
 | [0529-minesweeper](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Knapsack Problem
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0449-serialize-and-deserialize-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0529-minesweeper](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [1096-brace-expansion-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
