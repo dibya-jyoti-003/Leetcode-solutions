@@ -6,19 +6,13 @@ public:
             int count = 0;
             unordered_map<int,int> mp;
             for (int j=0;j<i;j++){
-                if (mp.find(nums[j]) == mp.end()){
-                    mp[nums[j]]=1;
-                    count++;
-                }
-                else mp[nums[j]]++;
+                mp[nums[j]]++;
+                count += (mp[nums[j]] == 1);
             }
             ans += count*count;
             for (int j=i;j<len;j++){
-                if (mp.find(nums[j]) == mp.end())mp[nums[j]] = 1;
-                else mp[nums[j]]++;
-                if (mp[nums[j]] == 1)count++;
-                mp[nums[j-i]]--;
-                if (!mp[nums[j-i]])count--;
+                mp[nums[j]]++;
+                count += (mp[nums[j]] == 1) - (--mp[nums[j-i]] == 0);
                 ans += count*count;
             }
         }
