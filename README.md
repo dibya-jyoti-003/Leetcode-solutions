@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1499-max-value-of-equation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1499-max-value-of-equation) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1765-map-of-highest-peak](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0519-random-flip-matrix](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0519-random-flip-matrix) |
 | [0836-rectangle-overlap](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2939-maximum-xor-product](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2939-maximum-xor-product) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0140-word-break-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1146-snapshot-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1146-snapshot-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -293,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Lifting
@@ -387,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Algorithm X
 |  |
@@ -507,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Data Stream
 |  |
 | ------- |
@@ -535,4 +544,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
