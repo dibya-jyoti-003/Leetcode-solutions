@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1765-map-of-highest-peak](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
