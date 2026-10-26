@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [1765-map-of-highest-peak](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [1096-brace-expansion-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1765-map-of-highest-peak](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sorting
 |  |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Data Stream
 |  |
 | ------- |
