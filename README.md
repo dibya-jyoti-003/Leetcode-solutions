@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0221-maximal-square) |
 | [0413-arithmetic-slices](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0457-circular-array-loop](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0494-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0529-minesweeper](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0529-minesweeper) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0264-ugly-number-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0519-random-flip-matrix](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0519-random-flip-matrix) |
 | [0836-rectangle-overlap](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
