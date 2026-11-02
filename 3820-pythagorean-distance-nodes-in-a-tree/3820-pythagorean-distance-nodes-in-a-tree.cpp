@@ -3,12 +3,13 @@ public:
     void paths(int start, vector<int>& dist , vector<vector<int>>& adj){
         int n = dist.size();
         vector<bool> vis (n,false);
-        priority_queue<pair<int,int>,vector<pair<int,int>>, greater<>> pq;
+        // priority_queue<pair<int,int>,vector<pair<int,int>>, greater<>> pq;
+        queue<pair<int,int>> pq;
         pq.push({0,start});
         dist[start] = 0;
         vis[start] = true ;
         while (!pq.empty()){
-            auto [d, node] = pq.top();
+            auto [d, node] = pq.front();
             pq.pop();
             for (int neighbour:adj[node]){
                 if (vis[neighbour])continue;
