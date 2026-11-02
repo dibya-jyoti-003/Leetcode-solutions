@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
