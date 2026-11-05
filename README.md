@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0838-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1146-snapshot-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1499-max-value-of-equation](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1499-max-value-of-equation) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1146-snapshot-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1146-snapshot-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1096-brace-expansion-ii](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
