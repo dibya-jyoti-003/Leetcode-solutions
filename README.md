@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1840-maximum-building-height](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
