@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1840-maximum-building-height](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2409-count-days-spent-together](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2939-maximum-xor-product](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2939-maximum-xor-product) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dibya-jyoti-003/Leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
